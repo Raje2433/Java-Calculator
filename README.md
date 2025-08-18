@@ -25,9 +25,9 @@ It’s a **beginner-friendly project** and a great practice for anyone learning 
 
 ## 📂 Project Structure  
 📁 Calculator-Project
--┣ 📜 Calculator.java # Main program
--┣ 📜 CalculatorTest.java # Manual test cases
--┗ 📜 README.md # Documentation
+- ┣ 📜 Calculator.java # Main program
+- ┣ 📜 CalculatorTest.java # Manual test cases
+- ┗ 📜 README.md # Documentation
 
 ---
 
