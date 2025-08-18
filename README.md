@@ -1,6 +1,6 @@
 # 🧮 Java Calculator
 
-## 📖 About  
+ 
 This is a simple **Java-based Calculator** project that demonstrates:  
 - Basic arithmetic operations  
 - Input validation with `try-catch`  
@@ -25,9 +25,9 @@ It’s a **beginner-friendly project** and a great practice for anyone learning 
 
 ## 📂 Project Structure  
 📁 Calculator-Project
-┣ 📜 Calculator.java # Main program
-┣ 📜 CalculatorTest.java # Manual test cases
-┗ 📜 README.md # Documentation
+-┣ 📜 Calculator.java # Main program
+-┣ 📜 CalculatorTest.java # Manual test cases
+-┗ 📜 README.md # Documentation
 
 ---
 
@@ -37,16 +37,16 @@ It’s a **beginner-friendly project** and a great practice for anyone learning 
 - Install **Java JDK** (version 17+ recommended)  
 - Install any IDE or text editor (e.g., **VS Code, IntelliJ, Eclipse**)  
 
-### ▶️ Run the Calculator  
-# Compile the program
-javac Calculator.java
+## ▶️ Run the Calculator  
+### Compile the program
+- javac Calculator.java
 
-# Run the program
-java Calculator
+### Run the program
+- java Calculator
 
-### 🧪 Run Manual Test Cases
-# Compile the test file
-javac CalculatorTest.java
+## 🧪 Run Manual Test Cases
+### Compile the test file
+- javac CalculatorTest.java
 
-# Run tests
-java CalculatorTest
+### Run tests
+- java CalculatorTest
