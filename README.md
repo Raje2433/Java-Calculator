@@ -66,5 +66,7 @@ It’s a great project to practice **Java fundamentals**, **OOP concepts**, and 
 
 Here’s how the **Java Swing Calculator** looks:  
 
-![GUI Calculator](GUI - version/image_1.png)
+![GUI Calculator](GUI%20-%20version/image_1.png)
+
+![GUI Calculator](GUI%20-%20version/image_2.png)
 
