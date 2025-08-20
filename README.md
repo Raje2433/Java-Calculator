@@ -34,12 +34,12 @@ It’s a great project to practice **Java fundamentals**, **OOP concepts**, and 
 ## 📂 Project Structure  
 
 📁 Calculator-Project
-┣ 📂 Console-Version
-┃ ┣ 📜 Calculator.java # Console-based calculator
-┃ ┗ 📜 CalculatorTest.java # Manual test cases
-┣ 📂 GUI-Version
-┃ ┗ 📜 CalculatorGUI.java # Swing-based calculator
-┗ 📜 README.md # Documentation
+- ┣ 📂 Console-Version
+- ┃ ┣ 📜 Calculator.java # Console-based calculator
+- ┃ ┗ 📜 CalculatorTest.java # Manual test cases
+- ┣ 📂 GUI-Version
+- ┃ ┗ 📜 CalculatorGUI.java # Swing-based calculator
+- ┗ 📜 README.md # Documentation
 
 ---
 ## 🛠️ Getting Started  
