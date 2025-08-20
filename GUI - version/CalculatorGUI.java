@@ -4,8 +4,8 @@ import java.awt.event.*;
 
 public class CalculatorGUI extends JFrame implements ActionListener {
 
-    private JTextField expressionDisplay;  // small line for full expression
-    private JTextField mainDisplay;        // big line for current number/result
+    private JTextField expressionDisplay;  
+    private JTextField mainDisplay;        
     private StringBuilder currentInput;
     private StringBuilder expression;
     private double firstNumber = 0;
