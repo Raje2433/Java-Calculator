@@ -62,9 +62,9 @@ It’s a great project to practice **Java fundamentals**, **OOP concepts**, and 
 ### Run tests
 - java CalculatorTest
   
-## ▶️ Run the Calculator  (GUI - based)
-### Compile the program
-- javac CalculatorGUI.java
+## 🎨 GUI Preview  
 
-### Run the program
-- java CalculatorGUI
+Here’s how the **Java Swing Calculator** looks:  
+
+![GUI Calculator](GUI - version/image_1.png)
+
