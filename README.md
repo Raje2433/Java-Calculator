@@ -1,43 +1,54 @@
 # 🧮 Java Calculator
 
- 
-This is a simple **Java-based Calculator** project that demonstrates:  
-- Basic arithmetic operations  
-- Input validation with `try-catch`  
-- Formatted output (integers and decimals)  
-- Looping until user exits  
-- Graceful handling of division/modulo by zero  
+This repository contains **two versions** of a Calculator built in Java:  
+1. **Console-Based Calculator** (beginner-friendly, text input)  
+2. **GUI-Based Calculator** (Swing-based with buttons and display)  
 
-It’s a **beginner-friendly project** and a great practice for anyone learning **Java fundamentals**.
+It’s a great project to practice **Java fundamentals**, **OOP concepts**, and **Java Swing GUI**.
 
 ---
 
-## ✨ Features  
+## ✨ Features
+
+### ✅ Console Version
 - ➕ Addition  
 - ➖ Subtraction  
 - ✖️ Multiplication  
 - ➗ Division (handles division by zero)  
 - 〽️ Modulo (handles modulo by zero)  
-- 🔄 Run continuously until user exits  
-- ⚠️ Handles invalid input (non-numeric or wrong choices)  
+- 🔄 Loop until user exits  
+- ⚠️ Handles invalid inputs gracefully  
+
+### 🎨 GUI Version (Java Swing)
+- 🖥️ Calculator-like interface with display  
+- 🔢 Buttons for digits (0–9) and decimal  
+- ➕ ➖ ✖️ ➗ 〽️ Operators  
+- **=** Equals button to evaluate  
+- **C** Clear button (C)  
+- **D** Delete button (backspace)  
+- ✅ Shows full expression + result like a real calculator  
+- ⚠️ Handles division/modulo by zero with error message  
 
 ---
 
 ## 📂 Project Structure  
+
 📁 Calculator-Project
-- ┣ 📜 Calculator.java # Main program
-- ┣ 📜 CalculatorTest.java # Manual test cases
-- ┗ 📜 README.md # Documentation
+┣ 📂 Console-Version
+┃ ┣ 📜 Calculator.java # Console-based calculator
+┃ ┗ 📜 CalculatorTest.java # Manual test cases
+┣ 📂 GUI-Version
+┃ ┗ 📜 CalculatorGUI.java # Swing-based calculator
+┗ 📜 README.md # Documentation
 
 ---
-
 ## 🛠️ Getting Started  
 
 ### ✅ Prerequisites  
 - Install **Java JDK** (version 17+ recommended)  
 - Install any IDE or text editor (e.g., **VS Code, IntelliJ, Eclipse**)  
 
-## ▶️ Run the Calculator  
+## ▶️ Run the Calculator  (Console - based)
 ### Compile the program
 - javac Calculator.java
 
@@ -50,3 +61,10 @@ It’s a **beginner-friendly project** and a great practice for anyone learning 
 
 ### Run tests
 - java CalculatorTest
+  
+## ▶️ Run the Calculator  (GUI - based)
+### Compile the program
+- javac CalculatorGUI.java
+
+### Run the program
+- java CalculatorGUI
